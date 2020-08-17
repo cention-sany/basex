@@ -1,1 +1,3 @@
-module github.com/eknkc/basex
+module github.com/cention-sany/basex
+
+go 1.13

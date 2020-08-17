@@ -1,3 +1,6 @@
+# forked basex
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/cention-sany/basex)](https://pkg.go.dev/github.com/cention-sany/basex)
+
 # basex
 
 [![Actions Status](https://github.com/eknkc/basex/workflows/Go/badge.svg)](https://github.com/eknkc/basex/actions)
